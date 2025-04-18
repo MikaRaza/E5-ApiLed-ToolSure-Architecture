@@ -1,0 +1,14 @@
+Enoncé : 
+### 📝 **ToolSure Assurance – Évaluation Finale - 18 avril**
+
+**Conception d'une Architecture API-Led & Justification**
+
+---
+
+## 📘 Scénario
+
+**ToolSure** est une compagnie d’assurance spécialisée dans la **couverture à la demande** pour la location de matériel (chantier, événementiel, etc.). Ses services doivent être intégrés aux systèmes des partenaires (agences de location) ainsi qu’aux outils internes (centre d’appel, gestion des sinistres).
+
+Dans le cadre de sa transformation numérique, ToolSure met en place une architecture **API-led** modulaire, sécurisée et réutilisable.
+
+Vous êtes mandatés pour **concevoir, documenter et défendre** une solution couvrant **trois cas d’usage clés**.
